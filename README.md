@@ -1,2 +1,4 @@
 # ProgressiveMachineLearning
 Progressive Machine Learning for Hydropower Forecast
+Included in this folder are input data files for MATLAB codes: Fig10_MLfull_RMSE_Runs.m and Fig11_MLall_Skill that were used to create Fig.10 and Fig.11 of the paper "Causal analysis of a complex hydrological energy system by synergizing a progressive multivariable regression model and a progressive supervised machine learning model". Other figures can be easily created by using these codes throtrainingdata_BlackEagleugh a little bit modification. 
+Input data files: trainingdata_BlackEagle.xlsx, trainingdata_Cochrane.xlsx, ..., are the all five data files used to create all figures in the paper "Causal analysis of a complex hydrological energy system by synergizing a progressive multivariable regression model and a progressive supervised machine learning model".
